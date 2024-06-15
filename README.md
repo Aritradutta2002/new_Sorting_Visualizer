@@ -1,5 +1,5 @@
 # Site Link
-https://aaryan-sorting-visualizer.netlify.app/
+[https://aaryan-sorting-visualizer.netlify.app/](https://aritradutta-sorting-visualization.netlify.app/)
 
 # Sorting-Visualizer
 
